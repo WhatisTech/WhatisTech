@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WhatisTech
-- 👀 I’m interested in: the OpenHarmony/Oniro projrct
+- 👀 I’m interested in: the OpenHarmony/Oniro projects
 - 🌱 I’m currently learning: Python
 - 📫 How to reach me through: -NA-
 - 💡 Fun fact about me is: that I am the maintainer of Libretube GitLab
